@@ -14,6 +14,6 @@ This project uses **GitHub REST API** to automatically fetch and display my late
 - Open-Meteo Weather API
 
 ### 🔗 Live Demo
-https://github.com/Zallkkkpr/GitHub-API-project-/
+https://zallkkkpr.github.io/GitHub-API-project-/
 
 Created by Zalak Parmar 💙
